@@ -4,7 +4,7 @@ Clasificador binario de imágenes que distingue entre chihuahuas y muffins, cons
 
 ## Demo
 
-[Pruébalo aquí](https://TU-URL.streamlit.app)
+[Pruébalo aquí](https://chihuahua-vs-mffn.streamlit.app)
 
 ---
 
