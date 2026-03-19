@@ -21,7 +21,7 @@ Clasificador binario de imágenes que distingue entre chihuahuas y muffins, cons
 - `BatchNormalization`: estabiliza el entrenamiento
 - `GlobalAveragePooling2D`: reduce parámetros y mejora la generalización
 - `Dropout` (0.25, 0.3, 0.5) + Regularización L2
-- Data Augmentation: rotación, zoom, flip y contraste aleatorios
+- `Data Augmentation`: rotación, zoom, flip y contraste aleatorios
 - `EarlyStopping` + `ReduceLROnPlateau`
 
 ---
